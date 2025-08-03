@@ -1,0 +1,10 @@
+{
+  "name": "Justify",
+  "description": "Makes multi-line text use the justified alignment.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "icons/128 2.png"
+  }
+}
